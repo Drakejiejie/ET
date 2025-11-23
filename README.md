@@ -30,4 +30,3 @@
 
 ## 七、商业联系
 <img src="assets/微信联系方式.png" alt="微信联系方式" width="300" height="auto">
-![微信联系方式](assets/微信联系方式.png)
