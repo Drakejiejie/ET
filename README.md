@@ -29,4 +29,5 @@
 调用专属 API 即可实现 Pip 包的实时更新；额外提供扩展 API（如一键创建快捷方式），提升使用便捷性。
 
 ## 七、商业联系
+<img src="assets/微信联系方式.png" alt="微信联系方式" width="300" height="auto">
 ![微信联系方式](assets/微信联系方式.png)
