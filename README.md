@@ -1,4 +1,4 @@
-# Python-source-code-dynamic-encryption-system
+# Python源码动态加密，对Python源码进行加密
 
 ## 一、安全性
 - 加密方案基于 Python 源码的 C 层 TPM 安全模块开发，私钥极难被获取，安全性极高
